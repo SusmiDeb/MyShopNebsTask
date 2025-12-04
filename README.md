@@ -163,14 +163,6 @@ resources/
 
 ---
 
-## 🧪 Testing (if required)
-
-```bash
-php artisan test
-```
-
----
-
 ## ▶️ Run the project
 
 ```bash
